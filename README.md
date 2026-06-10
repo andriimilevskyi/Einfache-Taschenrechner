@@ -12,4 +12,4 @@ Ein einfacher Konsolen-Taschenrechner in C#.
 ## Start
 
 ```bash
-dotnet run
+dotnet run --project Einfache-Taschenrechner
